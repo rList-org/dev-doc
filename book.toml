@@ -1,0 +1,6 @@
+[book]
+authors = ["haruki"]
+language = "en"
+multilingual = false
+src = "src"
+title = "rList Development Document"
