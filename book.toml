@@ -4,3 +4,6 @@ language = "en"
 multilingual = false
 src = "src"
 title = "rList Development Document"
+
+[output.html]
+mathjax-support = true
